@@ -1,7 +1,7 @@
-# Nricher - stagiaire dev Full-Stack - Test technique
+# Nricher - Stagiaire full-stack - Test technique
 
 ## Contexte
-Dans le cadre de l'évolution de notre plateforme, nous souhaitons mettre en place une API qui gère des projets et des analyses avec une gestion fine des droits d'accès.
+Dans le cadre de cet exercice, nous souhaitons mettre en place une API qui gère des projets et des analyses avec une gestion fine des droits d'accès.
 
 ## Objectif du test
 Sécuriser une API REST qui permet de créer et de consulter des projets et des analyses, en implémentant une gestion des droits d'accès basée sur des rôles et des accès spécifiques.
