@@ -95,6 +95,9 @@ Implémenter une gestion centralisée des erreurs et un mécanisme de logging po
 - **Tests**  
   Implémentez des tests unitaires et/ou d'intégration pour démontrer la robustesse de votre API et la bonne gestion des droits d'accès.
 
+- **Commits**  
+  Utiliser la convention [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) afin de montrer clairement l’évolution du travail.
+
 - **Documentation**  
   Fournissez une documentation claire de l'API incluant :
     - La description des endpoints.
@@ -114,7 +117,9 @@ Vous êtes libre d'installer les dépendances supplémentaires que vous jugerez 
 ## Critères d'Évaluation
 - **Fonctionnalités** : L'API doit respecter les endpoints définis et appliquer correctement les règles de gestion des droits d'accès.
 - **Qualité du Code** : Le code doit être propre, structuré et respecter les bonnes pratiques.
-- **Documentation** : Une documentation claire et complète qui facilite la compréhension et la maintenance de l'API.
 - **Innovation** : Les propositions de fonctionnalités additionnelles seront appréciées.
+- **Documentation** : Une documentation claire et complète qui facilite la compréhension et la maintenance de l'API.
+- **Tests** : La présence de tests unitaires et/ou d’intégration validant les règles d’accès et les fonctionnalités.
+- **Conventional Commits** : Les commits doivent suivre la convention Conventional Commits pour montrer clairement l’évolution du travail.
 
 Bonne chance et bon développement !
