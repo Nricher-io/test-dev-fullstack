@@ -30,7 +30,7 @@ L'API expose les endpoints suivants :
       Créer une nouvelle analyse pour un projet donné.
 
 ## Environnement Technique
-- **Framework** : [Hono](https://hono.dev/)
+- **Framework** : [NestJS](https://nestjs.com/)
 - **Base de Données** : SQLite / Prisma
 - **Langage** : TypeScript
 
